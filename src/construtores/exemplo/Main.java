@@ -18,5 +18,7 @@ public class Main {
         System.out.println("Digite o nome e a idade: ");
         Pessoa p5 = new Pessoa(sc.nextLine(), Integer.parseInt(sc.nextLine()));
 
+        Pessoa p6 = new Pessoa(33, "José");
+
     }
 }
