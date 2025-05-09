@@ -1,4 +1,4 @@
-package heraca.exemplo;
+package heranca.exemplo;
 
 public class Pessoa {
     private String nome;

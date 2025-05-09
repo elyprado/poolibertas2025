@@ -1,4 +1,4 @@
-package heraca.exemplo;
+package heranca.exemplo;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,6 +8,11 @@ public class Main {
         a.setNome("Bill");
         a.setIdade(33);
         a.setCpf("123.123.123-12");
+
+        //crie uma classe Professor, que herda
+        //de Pessoa e tem como atributo adicional
+        //o valor de salário
+
 
     }
 }

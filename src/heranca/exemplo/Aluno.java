@@ -1,4 +1,4 @@
-package heraca.exemplo;
+package heranca.exemplo;
 
 public class Aluno extends Pessoa {
     private double nota;
