@@ -14,7 +14,7 @@ public class Veiculo {
 //sobrescrita do método GetNomeImposto retornando a 
 //palavra "IMPOSTO PORTUÁRIO"
 
-//crie a classe Aviação que tenha o numero da ANAC e faça 
+//crie a classe Avião que tenha o numero da ANAC e faça 
 //sobrescrita do método GetNomeImposto retornando a 
 //palavra "IMPOSTO ANAC"
 
